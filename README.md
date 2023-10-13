@@ -1,4 +1,4 @@
-Olá, Sou Jordan
+Olá, Meu Nome é Jordan Santos
 
 Sou Desenvolvedor Front-End
 
